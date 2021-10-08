@@ -18,7 +18,7 @@ const layerConfigurations = [
       { name: "Iris" },
       { name: "Shine" },
       { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "Name" },
     ],
   },
 ];
